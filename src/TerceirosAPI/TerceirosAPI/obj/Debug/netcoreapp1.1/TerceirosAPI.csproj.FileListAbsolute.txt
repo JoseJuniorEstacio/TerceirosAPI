@@ -1,0 +1,9 @@
+C:\projetos\microservices\TerceirosAPI\src\TerceirosAPI\TerceirosAPI\bin\Debug\netcoreapp1.1\TerceirosAPI.deps.json
+C:\projetos\microservices\TerceirosAPI\src\TerceirosAPI\TerceirosAPI\bin\Debug\netcoreapp1.1\TerceirosAPI.runtimeconfig.json
+C:\projetos\microservices\TerceirosAPI\src\TerceirosAPI\TerceirosAPI\bin\Debug\netcoreapp1.1\TerceirosAPI.runtimeconfig.dev.json
+C:\projetos\microservices\TerceirosAPI\src\TerceirosAPI\TerceirosAPI\bin\Debug\netcoreapp1.1\TerceirosAPI.dll
+C:\projetos\microservices\TerceirosAPI\src\TerceirosAPI\TerceirosAPI\obj\Debug\netcoreapp1.1\TerceirosAPI.csprojResolveAssemblyReference.cache
+C:\projetos\microservices\TerceirosAPI\src\TerceirosAPI\TerceirosAPI\obj\Debug\netcoreapp1.1\TerceirosAPI.AssemblyInfo.cs
+C:\projetos\microservices\TerceirosAPI\src\TerceirosAPI\TerceirosAPI\bin\Debug\netcoreapp1.1\TerceirosAPI.pdb
+C:\projetos\microservices\TerceirosAPI\src\TerceirosAPI\TerceirosAPI\obj\Debug\netcoreapp1.1\TerceirosAPI.dll
+C:\projetos\microservices\TerceirosAPI\src\TerceirosAPI\TerceirosAPI\obj\Debug\netcoreapp1.1\TerceirosAPI.pdb
